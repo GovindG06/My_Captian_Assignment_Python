@@ -1,6 +1,6 @@
 # write a program which accepts the radius of a circle from the user and computes area 
 r = int(input("Input the radius of the circle : "))
-area = r*r
+area = 3.14*r*r
 print('The area of the circle with radius', r,'is:',area)
 
 
